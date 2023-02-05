@@ -8,6 +8,6 @@
 	},
 	"dependencies": {
 		"@ensdomains/ensjs": "3.0.0-alpha.44",
-		"ethers": "^6.0.2"
+		"ethers": "^5.7.2"
 	}
 }
